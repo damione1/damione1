@@ -31,8 +31,7 @@ When I'm not coding or debugging a data pipeline, you'll probably find me:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damione1&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed" alt="Damien's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damione1&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=damione1&theme=transparent&hide_border=true&title_color=2f80ed&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed" alt="Damien's GitHub streak" />
 </div>
 
 <br>
