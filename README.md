@@ -15,7 +15,7 @@ I took a slightly unusual path: I spent about ten years in full-stack developmen
 
 ### 🛠️ My Stack & Tools
 
-- **Data & AI:** Python, Snowflake, dbt, SQL, local LLMs (Ollama)
+- **Data & AI:** Python, Snowflake, dbt, SQL, LLMs
 - **Software Engineering:** Go, Rust, PHP, Svelte
 - **Infrastructure & Homelab:** Docker, Linux, CI/CD, and a homelab that takes up *a bit* too much space at home.
 
