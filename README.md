@@ -1,7 +1,7 @@
 # Hi, I'm Damien 👋
 
 [![Blog](https://img.shields.io/badge/Blog-Dad_Driven_Development-blue?style=flat-square)](https://damiengoehrig.ca/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Damien_Goehrig-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/damien-goehrig/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Damien_Goehrig-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/damiengoehrig/) 
 
 I'm a **Data & AI Engineer** based in Montreal 🇨🇦. 
 
