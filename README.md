@@ -11,6 +11,7 @@ I took a slightly unusual path: I spent about ten years in full-stack developmen
 
 - **[Soufflé](https://github.com/damione1/souffle)**: My current main project! It's a private, on-device speech-to-text app for macOS that never leaves your Mac. It features live transcriptions, speaker separation, local LLM summaries, and dictation anywhere. Built with Rust (Tauri 2) and Svelte 5.
 - **[YotoMediaManager](https://github.com/damione1/yoto-media-manager)**: A desktop app for macOS and Windows to import audio from files or YouTube, trim tracks, and manage playlists on your Yoto account. Built with Rust.
+- **[Slint Kit](https://github.com/damione1/slint-kit)**: A composable native UI toolkit for Rust and Slint, with strongly typed forms, reusable components, virtualized data views, and custom themes.
 - **The Modern Data Stack**: Lots of Snowflake, dbt, and Python.
 - **AI in Production**: Deploying and operating reliable intelligent systems.
 
